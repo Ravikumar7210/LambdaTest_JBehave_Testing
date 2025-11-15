@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.lamdatest.jbehave.login.RunLoginStoryTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.42 s -- in com.lamdatest.jbehave.login.RunLoginStoryTest
