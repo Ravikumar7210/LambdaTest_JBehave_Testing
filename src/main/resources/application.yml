@@ -1,0 +1,9 @@
+app:
+  lambdatest:
+    username: ${LT_USERNAME:rk76912}
+    accessKey: ${LT_ACCESS_KEY:tukVm4sgmajEbvmUkwVW6b7kuqhq9KxC8o7NdFwQiCxv1yhqDR}
+    gridUrl: https://hub.lambdatest.com/wd/hub
+    platformName: Windows 11
+    browserVersion: latest
+    project: JBehave LambdaTest Demo
+    build: JBehave Login Test

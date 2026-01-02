@@ -1,0 +1,3 @@
+com\example\jbehave\lambdatest\JbehaveLambdatestDemoApplicationTest.class
+com\example\jbehave\lambdatest\steps\LoginSteps.class
+com\example\jbehave\lambdatest\runner\JBehaveRunnerTest.class

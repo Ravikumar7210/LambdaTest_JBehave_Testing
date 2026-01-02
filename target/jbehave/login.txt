@@ -1,0 +1,30 @@
+
+(stories/login.story)
+Narrative:
+In order to access my account
+As a registered user
+I want to log in and see my dashboard
+BeforeSystemStorySteps
+
+BeforeUserStorySteps
+
+Scenario: Valid login
+BeforeSystemScenarioSteps
+com.example.jbehave.lambdatest.steps.LoginSteps.beforeScenario()
+
+BeforeUserScenarioSteps
+
+Given the user is on the login page
+When the user enters valid credentials
+Then the user should see the dashboard
+AfterUserScenarioSteps
+
+AfterSystemScenarioSteps
+com.example.jbehave.lambdatest.steps.LoginSteps.tearDown()
+
+
+AfterUserStorySteps
+
+AfterSystemStorySteps
+
+
