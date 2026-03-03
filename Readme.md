@@ -1,6 +1,6 @@
-# JBehave Login Test with Selenium and LambdaTest 🌐
+# JBehave Login Test with Selenium and TestMu AI (Formerly LambdaTest) 🌐
 
-This project demonstrates Behavior-Driven Development (BDD) using **JBehave** and **Selenium WebDriver**, executed on the **LambdaTest cloud grid**. It automates a login scenario for a sample e-commerce site and generates HTML reports for test results.
+This project demonstrates Behavior-Driven Development (BDD) using **JBehave** and **Selenium WebDriver**, executed on the ** TestMu AI cloud grid**. It automates a login scenario for a sample e-commerce site and generates HTML reports for test results.
 
 ---
 
@@ -14,7 +14,7 @@ This project demonstrates Behavior-Driven Development (BDD) using **JBehave** an
 ## 🚀 Features
 
 - ✅ BDD-style test flow using `.story` files
-- ✅ Remote browser execution on LambdaTest
+- ✅ Remote browser execution on TestMu AI
 - ✅ HTML report generation via JBehave
 - ✅ W3C-compliant capabilities for Selenium 4
 - ✅ Beginner-friendly structure with reusable steps
@@ -48,7 +48,7 @@ git clone https://github.com/your-username/jbehave-login-test.git
 cd jbehave-login-test
 ```
 
-### 2. Configure LambdaTest Credentials
+### 2. Configure TestMu AI Credentials
 
 You can either:
 - Set environment variables:
@@ -91,12 +91,12 @@ This report shows:
 
 ---
 
-## 🌐 LambdaTest Dashboard
+## 🌐 TestMu AI Dashboard
 
 
-If the test runs successfully, you can view the session details, logs, and screenshots on your LambdaTest dashboard:
+If the test runs successfully, you can view the session details, logs, and screenshots on your TestMu AI dashboard:
 ```markdown
-[LambdaTest Automation Dashboard](https://automation.lambdatest.com)
+[TestMu AI Automation Dashboard](https://automation.lambdatest.com)
 ```
 
 ## 📌 Notes
@@ -104,9 +104,10 @@ If the test runs successfully, you can view the session details, logs, and scree
 ```markdown
 
 - This project uses W3C-compliant capabilities (`LT:Options`) for Selenium 4.
-- If you face network issues, consider using [LambdaTest Tunnel](https://www.lambdatest.com/support/docs/real-time-testing-troubleshooting/).
-- You can find your LambdaTest credentials on the [Username and Access Key page](https://accounts.lambdatest.com/security/username-accesskey).
+- If you face network issues, consider using [TestMu AI Tunnel](https://www.lambdatest.com/support/docs/real-time-testing-troubleshooting/).
+- You can find your TestMu AI credentials on the [Username and Access Key page](https://accounts.lambdatest.com/security/username-accesskey).
 ```
+
 
 
 
