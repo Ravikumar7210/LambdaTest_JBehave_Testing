@@ -95,19 +95,15 @@ This report shows:
 
 
 If the test runs successfully, you can view the session details, logs, and screenshots on your TestMu AI dashboard:
-```markdown
 [TestMu AI Automation Dashboard](https://automation.lambdatest.com)
-```
 
 ## 📌 Notes
 
-```markdown
-
-- This project uses W3C-compliant capabilities (`LT:Options`) for Selenium 4.
+- This project uses W3C-compliant capabilities (LT:Options) for Selenium 4.
 - If you face network issues, consider using [TestMu AI Tunnel](https://www.testmuai.com/support/docs/testing-locally-hosted-pages/).
 - If you face any problem, you can check the official docs [TestMu AI Real Time Testing Troubleshooting](https://www.testmuai.com/support/docs/real-time-testing-troubleshooting/).
 - You can find your TestMu AI credentials on the [Username and Access Key page](https://accounts.lambdatest.com/security/username-accesskey).
-```
+
 
 
 
