@@ -35,7 +35,7 @@ public class LoginSteps {
     @Given("the user is on the login page")
     public void openLoginPage() throws InterruptedException {
         driver.get("https://ecommerce-playground.lambdatest.io/index.php?route=account/login");
-//        Thread.sleep(1000); // ✅ short pause so LambdaTest video captures page load
+//        Thread.sleep(1000); // ✅ short pause so TestMu AI video captures page load
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("input-email")));
         ltLog("Navigated to login page and email field visible");
     }
@@ -68,7 +68,7 @@ public class LoginSteps {
         }
     }
 
-    // ---------- LambdaTest logging helpers ----------
+    // ---------- TestMu AI logging helpers ----------
 
     private void ltLog(String message) {
         try {
@@ -83,3 +83,4 @@ public class LoginSteps {
         } catch (Exception ignored) { }
     }
 }
+
