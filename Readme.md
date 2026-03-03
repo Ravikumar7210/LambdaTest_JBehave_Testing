@@ -1,6 +1,6 @@
 # JBehave Login Test with Selenium and TestMu AI (Formerly LambdaTest) 🌐
 
-This project demonstrates Behavior-Driven Development (BDD) using **JBehave** and **Selenium WebDriver**, executed on the ** TestMu AI cloud grid **. It automates a login scenario for a sample e-commerce site and generates HTML reports for test results.
+This project demonstrates Behavior-Driven Development (BDD) using **JBehave** and **Selenium WebDriver**, executed on the **TestMu AI cloud grid**. It automates a login scenario for a sample e-commerce site and generates HTML reports for test results.
 
 ---
 
@@ -107,6 +107,7 @@ If the test runs successfully, you can view the session details, logs, and scree
 - If you face network issues, consider using [TestMu AI Tunnel](https://www.lambdatest.com/support/docs/real-time-testing-troubleshooting/).
 - You can find your TestMu AI credentials on the [Username and Access Key page](https://accounts.lambdatest.com/security/username-accesskey).
 ```
+
 
 
 
